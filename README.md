@@ -16,7 +16,7 @@ los DLL deben ir en la carpeta bin.
 
 Compilacion : 
 Windows : 
-MSYS2
+Instala y configura MSYS2.
 en la raiz del proyecto ejecuta make.
 
 Linux : 
